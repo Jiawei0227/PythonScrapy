@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.nju.edu.cn	TRUE	/	FALSE		user_id	"141250136 1474194929562"
+jwas2.nju.edu.cn	FALSE	/jiaowu	FALSE		JSESSIONID	91F543A0B749BB849576172C785E8C6E
