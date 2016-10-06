@@ -54,9 +54,11 @@ class BDTB:
         content = self.getPage(page)
         pattern = r'<div id="post_content_.*?>(.*?)</div>'
         result = re.findall(pattern,content)
+        floor = 1
         for item in result:
-            print '------------------------------楼--------------------------------------'
+            print '------------------------------'+str(floor)+'楼--------------------------------------'
             print self.tool.replace(item)
+            floor += 1
         return
 
     def start(self):
