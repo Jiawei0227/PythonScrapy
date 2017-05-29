@@ -4,6 +4,7 @@
       <mapping pattern="jmaradar2bin" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="gs" type="PLAIN_TEXT" />
       <mapping ext="grib2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
